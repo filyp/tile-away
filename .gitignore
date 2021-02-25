@@ -1,5 +1,5 @@
-.ipynb_checkpoints/
-saves/
+notebooks/.ipynb_checkpoints/
+notebooks/saves/
 vispy/
 .virtual_documents/
 venv/
