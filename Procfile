@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/tile-away.ipynb
+web: voila --port=$PORT --no-browser --theme=dark --enable_nbextensions=True notebooks/tile-away.ipynb
