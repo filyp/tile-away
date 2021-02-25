@@ -4,6 +4,3 @@ networkx
 ipywidgets 
 matplotlib
 ipympl
-nodejs
-jupyterlab
-nbconvert
