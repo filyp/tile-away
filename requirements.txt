@@ -12,7 +12,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-idna==3.1
+idna==2.5
 ipykernel==5.5.0
 ipympl==0.6.3
 ipython==7.20.0
